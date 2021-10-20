@@ -17,11 +17,12 @@ https://hackpad.com/iOS-APP-in-Swift-hI9gB0xWtcK
 每週禮拜二的iOS跨界自主技術與經驗交流，設計師，工程師，對iOS產業有興趣的都歡迎一起來聚會
 ultimate freedom, ultimate network in iOS
 
-徵才文需知：
+## 徵才文需知：
 1. 非 iOS 相關的開發工作機會不能貼。但是同一篇文章徵求多個職缺的話可以。
 2. 至少有要公司名稱，無公司名稱者刪文。
 3. 至少要有薪資區間，無薪資區間者刪文。
 3. 刪文不另行通知。
 
-Facebook »
-https://www.facebook.com/groups/ios.taipei
+## Refs:
+- [Facebook Group](https://www.facebook.com/groups/ios.taipei)
+- [Gather](https://gather.town/app/nDt8gD5IuUbb4H0B/iOSTaipei)
