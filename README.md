@@ -1,5 +1,5 @@
 
-![Cover](https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/19702260_1727699040576869_7512761189842517498_n.jpg?_nc_cat=105&ccb=2&_nc_sid=825194&_nc_ohc=7yswwE5EPjkAX9_ogZV&_nc_ht=scontent.ftpe7-4.fna&oh=48dde38407eeae1a1a50d1c96a43374a&oe=602B49B8)
+![Cover]([https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/19702260_1727699040576869_7512761189842517498_n.jpg?_nc_cat=105&ccb=2&_nc_sid=825194&_nc_ohc=7yswwE5EPjkAX9_ogZV&_nc_ht=scontent.ftpe7-4.fna&oh=48dde38407eeae1a1a50d1c96a43374a&oe=602B49B8](https://github.com/ios-taipei/events/blob/main/88224583_2839606266129968_7159511423582732288_o.jpg?raw=true))
 
 # iOS@Taipei Events
 A repo to launch iOS@Taipei meetup events. <br/>
