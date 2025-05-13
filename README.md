@@ -10,8 +10,6 @@ iOS and startup oriented network community based in Taipei, with belief in freed
 weekly meetup of iOS developers ＆ designers based in Taipei. Feel free to discuss with fellow developers of your projects, experiences and questions while working on iOS.
 
 iOS developers tends to have startup/user mindset
-初學者學習資源/iOS app in Swift tutorial for beginners:
-https://hackpad.com/iOS-APP-in-Swift-hI9gB0xWtcK
 自由的文化，自然的聚集，交流，創造
 由一群自發性的科技人，新創人組成的實體聚會，互相分享，快樂的創造。
 每週禮拜二的iOS跨界自主技術與經驗交流，設計師，工程師，對iOS產業有興趣的都歡迎一起來聚會
@@ -25,4 +23,4 @@ ultimate freedom, ultimate network in iOS
 
 ## Refs:
 - [Facebook Group](https://www.facebook.com/groups/ios.taipei)
-- [Gather](https://gather.town/app/nDt8gD5IuUbb4H0B/iOSTaipei)
+- [活動連結](https://spotvirtual.com/invite/iostaipei-20ea5d5ecbafb5b9-ElVJEE7ZGI)
